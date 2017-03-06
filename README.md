@@ -1,10 +1,10 @@
-# gatsby-typegen-remark-exponent-autolink
+# gatsby-typegen-remark-expo-autolink
 
 Adds Github-style links to `MarkdownRemark` headers and list items.
 
 ## Install
 
-`npm install --save gatsby-typegen-remark-exponent-autolink`
+`npm install --save gatsby-typegen-remark-expo-autolink`
 
 ## How to use
 
@@ -15,7 +15,7 @@ plugins: [
     resolve: `gatsby-typegen-remark`,
     options: {
       plugins: [
-        `gatsby-typegen-remark-exponent-autolink`,
+        `gatsby-typegen-remark-expo-autolink`,
       ]
     }
   }
