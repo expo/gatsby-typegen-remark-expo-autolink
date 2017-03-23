@@ -1,8 +1,8 @@
 {
   "name": "gatsby-typegen-remark-expo-autolink",
   "description": "Gatsby plugin for Remark to autolink headers and list items, for Expo docs",
-  "version": "1.0.0",
-  "author": "Brent Vatne <brent@getexponent.com>",
+  "version": "1.1.0",
+  "author": "Brent Vatne <brent@expo.io>",
   "dependencies": {
     "babel-plugin-lodash": "^3.2.11",
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
